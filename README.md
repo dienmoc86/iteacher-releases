@@ -35,19 +35,19 @@ Máy cần RAM từ 4 GB, ổ đĩa trống khoảng 700 MB. Không cần quyề
 - 0:00 Mở đầu
 - 0:39 Cài đặt
 - 2:18 Kích hoạt
-- 3:43 Làm quen
-- 4:20 Soạn giáo án
-- 5:39 Kế hoạch năm
-- 6:27 Ra đề và thi
-- 7:23 Nhận xét và điểm
-- 8:12 Sổ chủ nhiệm
-- 8:51 Học liệu, mô phỏng
-- 9:38 Trợ lý AI
-- 10:38 Giọng nói, công cụ
-- 11:30 Cài đặt, riêng tư
-- 12:04 Cập nhật
-- 12:49 Lỗi thường gặp
-- 13:35 Lời kết
+- 3:57 Làm quen
+- 4:35 Soạn giáo án
+- 5:54 Kế hoạch năm
+- 6:42 Ra đề và thi
+- 7:37 Nhận xét và điểm
+- 8:26 Sổ chủ nhiệm
+- 9:05 Học liệu, mô phỏng
+- 9:52 Trợ lý AI
+- 10:53 Giọng nói, công cụ
+- 11:44 Cài đặt, riêng tư
+- 12:19 Cập nhật
+- 13:04 Lỗi thường gặp
+- 13:50 Lời kết
 
 </details>
 
@@ -64,18 +64,21 @@ Hai cảnh báo trên là bình thường với phần mềm miễn phí chưa m
 
 ## 4. Kích hoạt (miễn phí)
 
-Lần đầu mở, iTeacher hiện **mã máy**. Thầy cô bấm **Chép mã máy**, rồi gửi cho tác giả qua
-**Zalo 0941.238.238** hoặc **[Facebook dienmoc86](https://www.facebook.com/dienmoc86)**, kèm họ tên và trường.
-Tác giả duyệt từng yêu cầu bằng tay và nhắn lại một dòng key. Thầy cô dán key vào ô **Dán key nhận được**, bấm **Kích hoạt**.
+Lần đầu mở, iTeacher hiện **mã máy**. Thầy cô xin key miễn phí bằng một trong hai cách:
 
-Không cần Telegram hay tài khoản nào khác. Key gắn với một máy, dùng một năm; cài lại hay cập nhật vẫn giữ kích hoạt.
+- **Có Telegram (nhanh nhất):** bấm nút **Telegram** trên màn hình kích hoạt. Bot cấp key của tác giả mở ra, mã máy có sẵn;
+  bấm **Yêu cầu kích hoạt** rồi chờ key gửi về ngay trong Telegram.
+- **Không dùng Telegram:** bấm **Chép mã máy**, gửi cho tác giả qua **Zalo 0941.238.238** hoặc
+  **[Facebook dienmoc86](https://www.facebook.com/dienmoc86)**, kèm họ tên và trường. Tác giả duyệt rồi nhắn lại một dòng key, thường trong ngày.
+
+Dán key vào ô **Dán key nhận được**, bấm **Kích hoạt**. Key gắn với một máy, dùng một năm; cài lại hay cập nhật vẫn giữ kích hoạt.
 
 ## 5. Cập nhật
 
-Từ bản **0.4.1**, khi có mạng, iTeacher tự xem có bản mới không và hiện thanh màu xanh ở đầu màn hình. Thầy cô bấm
+Từ bản **0.4.2**, khi có mạng, iTeacher tự xem có bản mới không và hiện thanh màu xanh ở đầu màn hình. Thầy cô bấm
 **Cập nhật ngay**: phần mềm tự tải, kiểm tra chữ ký số của tác giả, cài đè rồi mở lại. Giáo án, đề, điểm và kích hoạt được giữ nguyên.
 
-Máy đang dùng bản **0.4.0 trở về trước** cần tải và cài bản mới **một lần** bằng tay (cài đè, dữ liệu giữ nguyên).
+Máy đang dùng bản **0.4.1 trở về trước** cần tải và cài bản mới **một lần** bằng tay (cài đè, dữ liệu giữ nguyên).
 
 ## 6. An toàn
 
