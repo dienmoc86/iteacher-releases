@@ -30,6 +30,8 @@ Máy cần RAM từ 4 GB, ổ đĩa trống khoảng 700 MB. Không cần quyề
   [tệp phụ đề .srt](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.srt).
   Chỗ nào chưa kịp, thầy cô bấm dừng video, làm theo xong rồi xem tiếp.
 - 📄 **[Tài liệu hướng dẫn (Word, có ảnh từng bước)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Huong-dan-iTeacher.docx)**
+- 📰 **[Tài liệu giới thiệu iTeacher (Word, khoảng 10 trang)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Gioi-thieu-iTeacher.docx)**:
+  phần mềm làm được gì, kèm ảnh; gửi cho đồng nghiệp, tổ chuyên môn, ban giám hiệu.
 
 <details>
 <summary>Mục lục video (bấm để xem)</summary>
