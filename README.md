@@ -25,29 +25,40 @@ Máy cần RAM từ 4 GB, ổ đĩa trống khoảng 700 MB. Không cần quyề
 
 ## 2. Hướng dẫn
 
-- 🎬 **[Video hướng dẫn](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.mp4)**
-  (giọng đọc tiếng Việt, có phụ đề) · [tệp phụ đề .srt](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.srt)
+- 🎬 **[Video hướng dẫn chi tiết, từng bước](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.mp4)**
+  (bản 0.4.9, khoảng 22 phút, giọng đọc tiếng Việt, chữ to, phóng to đúng nút cần bấm) ·
+  [tệp phụ đề .srt](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.srt).
+  Chỗ nào chưa kịp, thầy cô bấm dừng video, làm theo xong rồi xem tiếp.
 - 📄 **[Tài liệu hướng dẫn (Word, có ảnh từng bước)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Huong-dan-iTeacher.docx)**
 
 <details>
 <summary>Mục lục video (bấm để xem)</summary>
 
 - 0:00 Mở đầu
-- 0:39 Cài đặt
-- 2:18 Kích hoạt
-- 3:57 Làm quen
-- 4:35 Soạn giáo án
-- 5:54 Kế hoạch năm
-- 6:42 Ra đề và thi
-- 7:37 Nhận xét và điểm
-- 8:26 Sổ chủ nhiệm
-- 9:05 Học liệu, mô phỏng
-- 9:52 Trợ lý AI
-- 10:53 Giọng nói, công cụ
-- 11:44 Cài đặt, riêng tư
-- 12:19 Cập nhật
-- 13:04 Lỗi thường gặp
-- 13:50 Lời kết
+- 0:46 Máy cần có gì
+- 1:06 Tải bộ cài
+- 1:46 Cài đặt
+- 2:55 Kích hoạt (miễn phí)
+- 4:14 Làm quen màn hình
+- 5:01 Soạn giáo án
+- 6:13 Cách nhờ AI (4 bước)
+- 7:20 Xem, sửa, xuất Word
+- 8:01 Nâng cấp giáo án cũ
+- 9:30 Bài giảng PowerPoint
+- 10:33 Kế hoạch năm, lịch báo giảng
+- 11:10 Ra đề cùng AI
+- 12:23 Đề của thầy cô, phần nghe
+- 13:32 Thi trên lớp bằng điện thoại
+- 15:27 Nhận xét và điểm
+- 16:09 Sổ chủ nhiệm
+- 16:42 Thời khóa biểu
+- 18:10 Học liệu, mô phỏng
+- 18:39 Trợ lý AI, khóa AI riêng
+- 19:26 Giọng nói, công cụ
+- 19:54 Cài đặt, riêng tư
+- 20:13 Cập nhật
+- 20:38 Lỗi thường gặp
+- 21:19 Lời kết
 
 </details>
 
