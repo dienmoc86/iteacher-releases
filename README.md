@@ -3,8 +3,10 @@
 [![Video hướng dẫn iTeacher](huong-dan/anh-bia.jpg)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.mp4)
 
 **iTeacher** là phần mềm **miễn phí** dành cho giáo viên **Tiểu học, THCS và THPT**. Phần mềm giúp thầy cô soạn kế hoạch bài dạy
-(Công văn 5512, 2345), làm kế hoạch dạy học cả năm và lịch báo giảng, ra đề kiểm tra (có ma trận, đặc tả, thi bằng điện thoại),
-nhận xét học sinh, làm sổ chủ nhiệm, học liệu, mô phỏng thí nghiệm, chuyển PDF sang Word, đọc văn bản thành giọng nói…
+(Công văn 5512, 2345), làm bài giảng PowerPoint, kế hoạch dạy học cả năm và lịch báo giảng, ra đề kiểm tra (có hình và công thức,
+ma trận, đặc tả), thi trên lớp bằng điện thoại, chấm bài trên giấy bằng ảnh chụp, ôn bài trên lớp bằng trò chơi, nhận xét học sinh,
+làm sổ chủ nhiệm, xếp thời khóa biểu cả trường, theo dõi công việc và hạn nộp, học liệu, mô phỏng thí nghiệm, chuyển PDF sang Word,
+đọc văn bản thành giọng nói…
 
 - **Miễn phí hoàn toàn:** không thu phí cài đặt, kích hoạt, cập nhật hay sử dụng.
 - **Dữ liệu nằm trên máy của thầy cô:** giáo án, đề, điểm, danh sách học sinh không bị gửi đi đâu.
@@ -26,12 +28,15 @@ Máy cần RAM từ 4 GB, ổ đĩa trống khoảng 700 MB. Không cần quyề
 ## 2. Hướng dẫn
 
 - 🎬 **[Video hướng dẫn chi tiết, từng bước](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.mp4)**
-  (bản 0.4.9, khoảng 22 phút, giọng đọc tiếng Việt, chữ to, phóng to đúng nút cần bấm) ·
+  (khoảng 22 phút, giọng đọc tiếng Việt, chữ to, phóng to đúng nút cần bấm; quay trên bản 0.4.9 —
+  cách cài đặt, kích hoạt và các bước chính vẫn đúng cho bản mới) ·
   [tệp phụ đề .srt](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Video-huong-dan-iTeacher.srt).
   Chỗ nào chưa kịp, thầy cô bấm dừng video, làm theo xong rồi xem tiếp.
 - 📄 **[Tài liệu hướng dẫn (Word, có ảnh từng bước)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Huong-dan-iTeacher.docx)**
 - 📰 **[Tài liệu giới thiệu iTeacher (Word, khoảng 10 trang)](https://github.com/dienmoc86/iteacher-releases/releases/download/huong-dan/Gioi-thieu-iTeacher.docx)**:
   phần mềm làm được gì, kèm ảnh; gửi cho đồng nghiệp, tổ chuyên môn, ban giám hiệu.
+- 🆕 **Tính năng mới sau video** — chấm bài trên giấy bằng ảnh chụp, ôn bài trên lớp bằng trò chơi, đề có hình và công thức toán – hóa,
+  ra đề theo ma trận có sẵn, mục Công việc & hạn nộp…: xem phần «Mới ở bản …» của [từng bản phát hành](https://github.com/dienmoc86/iteacher-releases/releases).
 
 <details>
 <summary>Mục lục video (bấm để xem)</summary>
